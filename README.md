@@ -1,24 +1,53 @@
-# Bonjour, je suis Juan Antonio Nvara Roku !
+# 👋 Bonjour, je suis Juan Antonio Nvara Roku
 
-🎓 Étudiant en 4ᵉ année d’ingénierie informatique à l’École Marocaine d’Ingénierie (EMG), Rabat.  
-💡 Passionné par le développement logiciel, l’administration réseau et la data science.
+🎓 Étudiant en **5ᵉ et dernière année de génie informatique** à l’École Marocaine d’Ingénierie (EMG), Rabat.  
+🔐 Passionné par la **cybersécurité offensive & défensive** et les **réseaux informatiques**.
 
-## 🚀 À propos de moi
-- Compétent en **Java**, **Python**, **SQL**, et en développement d’interfaces avec **Java Swing** et **JavaFX**.
-- Formé à l’administration système et réseau sous **Linux**, avec une bonne pratique de **Cisco Packet Tracer**.
-- En cours d’apprentissage de **Django**, **Spring Boot**, et des outils de **Data Science** : `pandas`, `numpy`, `matplotlib`, `scikit-learn`.
-- Expérience de stage en Python sur la **reconnaissance de plaques d'immatriculation** avec OpenCV.
+---
+
+## 🛡️ À propos de moi
+
+- 💣 Expérience en **hacking éthique**, tests de pénétration, reconnaissance réseau et exploitation de vulnérabilités.  
+- 🐧 Solides compétences en administration **système et réseau sous Linux** (Debian, Kali).  
+- 🔍 Connaissances en **analyse forensique**, cryptographie, et détection d’intrusions.  
+- 🛠️ Pratique assidue d’outils de sécurité tels que : `Nmap`, `Wireshark`, `Metasploit`, `Burp Suite`, `Hydra`, `John the Ripper`, etc.
+- 🎯 Certifications en préparation : `Certified Ethical Hacker (CEH)` et `Cisco CCNA`.  
+- 👨‍💻 Participation régulière à des labs sur **TryHackMe**, **Hack The Box** et Cisco Packet Tracer.
+
+---
 
 ## 🛠️ Compétences techniques
-- **Langages** : Java, Python, SQL, HTML/CSS
-- **Frameworks** : Django (en cours), Spring Boot (en cours)
-- **Data Science** : Pandas, NumPy, Matplotlib, Scikit-learn (en cours)
-- **Base de données** : MySQL, MongoDB
-- **Réseaux & Systèmes** : Cisco Packet Tracer, Linux (admin de base)
-- **Outils** : Git, GitHub, VSCode, IntelliJ, NetBeans
+
+### 🔐 Cybersécurité
+- Pentesting (basique & intermédiaire), énumération, scanning, exploitation.
+- Analyse de logs, sécurité des applications web, injections SQL.
+- Sensibilisation à la sécurité, sécurisation de services Linux et réseaux.
+
+### 🌐 Réseaux
+- Conception et simulation de réseaux (Cisco Packet Tracer).
+- Protocoles : TCP/IP, DNS, DHCP, FTP, SSH.
+- Pare-feu, VLAN, NAT, routage de base.
+
+### 🧰 Outils & Environnements
+- **Offensif** : `Metasploit`, `Nikto`, `Hydra`, `Burp Suite`
+- **Défensif** : `Wireshark`, `Suricata`, `Fail2ban`
+- **Forensique** : `Autopsy`, `Volatility`, `OSQuery`
+- **Langages** : Python (scripts automatisés), Bash, SQL
+
+---
+
+## 🎯 Objectifs actuels
+
+- Renforcer mes compétences en **pentesting avancé** et **analyse forensique**.  
+- Obtenir les certifications **CEH**, **eJPT** et **CCNA**.  
+- Contribuer à des projets open-source liés à la sécurité.
+
+---
 
 ## 🔗 Liens utiles
-- [LinkedIn](https://www.linkedin.com/in/juan-antonio-nvara-roku-02abba229)
 
-Je suis toujours ouvert à de nouvelles opportunités, collaborations et projets techniques !
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-antonio-nvara-roku-02abba229)
 
+---
+
+📬 *Toujours ouvert aux opportunités en cybersécurité, aux collaborations techniques, et aux projets réseau & sécurité !* 🔍💻
